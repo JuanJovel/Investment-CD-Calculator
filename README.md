@@ -1,0 +1,1 @@
+Calculator that allows users to compare between different APY rates from different banks on a CD to make a better decision when investing their money on a CD.
